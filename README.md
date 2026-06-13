@@ -20,8 +20,5 @@ pip install -r requirements.txt
 ## Configuration
 Créer un fichier `.env` avec :
 ```env
-MUREKA_API_KEY=op_jvru57dtln2s17blv15begthz539smsl9
-MUREKA_BASE_URL=https://platform.mureka.ai
-```
 
 URL de l'interface: http://127.0.0.1:8000/docs#/
